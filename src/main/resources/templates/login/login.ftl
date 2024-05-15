@@ -110,28 +110,28 @@
   <div class="cont_centrar" style="top:5%;">
     <div class="cont_login">
       <div class="cont_forms cont_forms_active_login" style="height: 480px;width: 400px;border-radius: 15px;">
-        <div class="cont_img_back_"> <img src="images/timg.jpeg" alt="背景图片" /> </div>
+        <div class="cont_img_back_"> <img src="images/background1.jpg" alt="背景图片" /> </div>
         <form action="logins" method="post" onsubmit="return check();">
         <div class="cont_form_login" style="display: block;opacity: 1;width: 400px;">
         	 <div class="alert alert-danger alert-dismissible"  role="alert" style="position: absolute;padding: 11px;display: none">
 	          	错误信息: <span class="error-mess"></span>
 	          	<button type="button" class="close" data-dismiss="alert" aria-label="Close" style="right:0px;"><span aria-hidden="true">&times;</span></button>
 	          </div>
-          <h2>LOGIN</h2>
-          <input type="text" placeholder="UserName/TeL" autofocus="autofocus" value="${(userName)!''}" name="userName" class="userName test"/>
-          <input type="password" placeholder="Password" value="" name="password" class="password test"/>
-           <input type="text" placeholder="Code" style="margin-bottom: 20px;width:152px" name="code" class="code test"/>
+          <h2>登录</h2>
+          <input type="text" placeholder="用户名/电话" autofocus="autofocus" value="${(userName)!''}" name="userName" class="userName test"/>
+          <input type="password" placeholder="密码" value="" name="password" class="password test"/>
+           <input type="text" placeholder="验证码" style="margin-bottom: 20px;width:152px" name="code" class="code test"/>
            <div class="login-img" style="display:inline-block">
 					<img class="thisimg" onclick="this.src='captcha?r'+Date.now()" src="captcha" alt="验证码" style="width: 100px;height: 42px;border-radius: 3px;">
 				</div>
 		    <br>
-       <button class="btn_login btn" type="submit" >LOGIN</button>
+       <button class="btn_login btn" type="submit" >登录</button>
 
         </div>
         </form>
       </div>
      <div style="border: 1px solid transparent;">
-      	<p style="margin-top: 550px;font-weight: 400;color: #757575;font-size: 22px;letter-spacing:1px ;">欢迎使用OA办公自动化系统</p>
+      	<p style="margin-top: 550px;font-weight: 400;color: #757575;font-size: 22px;letter-spacing:1px ;">欢迎使用企业人事管理系统</p>
       </div>
 
 

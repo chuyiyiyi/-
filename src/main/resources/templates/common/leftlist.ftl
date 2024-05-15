@@ -1,7 +1,7 @@
 <div id="smallDiv"
 	style="width: 3%; background: red; float: left; display: none;">
 	<div style="text-align: center; height: 50px; padding-top: 7px;" class="green-g">
-		<a href="#"><img src="images/logo_1.png" /></a>
+		<a href="#"><img src="images/logo_2.jpg" /></a>
 	</div>
 	<div class="list-left"
 		style="width: 100%; background: rgb(34, 45, 50);">
@@ -45,8 +45,8 @@
 <div class="col-lg-2 col-md-2 smallDiv"
 	style="padding: 0; margin: 0; display: block;">
 	<div class="col-md-12 green-g">
-		<a href="index" class="navbar-brand" style="padding: 8px 40px;"><img
-			src="images/logo.png" /></a>
+		<a href="index" class="navbar-brand" style="padding: 0px 0px;"><img
+			src="images/logo_2.jpg" /></a>
 	</div>
 	<div class="col-md-12 list-left"
 		style="background: #222d32; height: 845px">

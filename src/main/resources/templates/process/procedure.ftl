@@ -65,7 +65,7 @@ margin-bottom: 48px;
 				<div class="row me" style="padding-top: 40px;padding-left: 40px;">
 				<a href="burse">
 					<div class="col-md-3 form-group">
-					<label class="control-label" style="float:left;"><img src="images/money.jpg" style="width:100px;height:100px;"></label>
+					<label class="control-label" style="float:left;"><img src="images/baoxiao.png" style="width:100px;height:100px;"></label>
 						<div>
 						<h4>费用报销单</h4><br>
 						<h5>指报销申请单据</h5>
@@ -83,7 +83,7 @@ margin-bottom: 48px;
 					</a> -->
 					<a href="evection">
 					<div class="col-md-3 form-group">
-					<label class="control-label" style="float:left;"><img src="images/chuchai.jpg" style="width:100px;height:100px;"></label>
+					<label class="control-label" style="float:left;"><img src="images/chuchai.png" style="width:100px;height:100px;"></label>
 						<div>
 						<h4>出差申请单</h4><br>
 						<h5>指出差申请单</h5>
@@ -92,7 +92,7 @@ margin-bottom: 48px;
 					</a>
 					<a href="overtime">
 					<div class="col-md-3 form-group">
-					<label class="control-label" style="float:left;"><img src="images/jiaban.jpg" style="width:100px;height:100px;"></label>
+					<label class="control-label" style="float:left;"><img src="images/jiaban.png" style="width:100px;height:100px;"></label>
 						<div>
 						<h4>加班申请单</h4><br>
 						<h5>指加班申请单</h5>
@@ -101,7 +101,7 @@ margin-bottom: 48px;
 					</a>
 					<a href="regular">
 					<div class="col-md-3 form-group">
-					<label class="control-label" style="float:left;"><img src="images/zhuanzhneg.jpg" style="width:100px;height:100px;"></label>
+					<label class="control-label" style="float:left;"><img src="images/zhuanzheng.png" style="width:100px;height:100px;"></label>
 						<div>
 						<h4>转正申请单</h4><br>
 						<h5>指转正申请单</h5>
@@ -110,7 +110,7 @@ margin-bottom: 48px;
 					</a>
 					<a href="holiday">
 					<div class="col-md-3 form-group">
-					<label class="control-label" style="float:left;"><img src="images/qingjia.jpg" style="width:100px;height:100px;"></label>
+					<label class="control-label" style="float:left;"><img src="images/qingjia.png" style="width:100px;height:100px;"></label>
 						<div>
 						<h4>请假申请单</h4><br>
 						<h5>指请假申请单</h5>
@@ -119,7 +119,7 @@ margin-bottom: 48px;
 					</a>
 					<a href="resign">
 					<div class="col-md-3 form-group">
-					<label class="control-label" style="float:left;"><img src="images/lizhi.jpg" style="width:100px;height:100px;"></label>
+					<label class="control-label" style="float:left;"><img src="images/lizhi.png" style="width:100px;height:100px;"></label>
 						<div>
 						<h4>离职申请单</h4><br>
 						<h5>指离职申请单</h5>

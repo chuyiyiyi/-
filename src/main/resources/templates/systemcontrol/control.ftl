@@ -53,7 +53,7 @@
 		tored();
 	}
 </script>
-<div class="head-show" style="position: relative; height: 76px;">
+<#--<div class="head-show" style="position: relative; height: 76px;">
 	<h3 style="display: inline-block; float: left;margin-left: 16px;">控制面板
 		<div style="display: inline-block;margin-left: 20px;">
 			<span class="thiscolor toblue" style="background-color:#00c0ef" onclick="funblue();"></span> 
@@ -69,7 +69,8 @@
 		</a></li>
 		<li class="active">控制面板</li>
 	</ol>
-</div>
+</div>-->
+<br>
 <!--四个面板-->
 <div class="container-fluid">
 	<div class="row">
@@ -132,7 +133,7 @@
 	<div class="row ">
 		<div class="col-md-7 gridly">
 		<!-- 统计 -->
-		<div class="panel panel-default box-show green-box">
+		<#--<div class="panel panel-default box-show green-box">
 				<div class="panel-heading box-show-heading"
 					style="background: white;">
 					<div class="panel-title" style="display: inline-block;">
@@ -159,7 +160,7 @@
 				
 				<div id="line" class="shrink" style="min-width: 100px; height: 280px; border-top:solid 1px #eee; margin: 0 auto">
 				</div>
-			</div>
+			</div>-->
 		
 		
 			<!--第一个公告通知-->
@@ -333,7 +334,7 @@
 		<!--内容右侧5个格子；-->
 		<div class="rightcolmd">
 		<!-- 任务完成排行 -->
-		<div class="panel panel-default box-show green-box">
+		<#--<div class="panel panel-default box-show green-box">
 				<div class="panel-heading box-show-heading"
 					style="background: white;">
 					<div class="panel-title" style="display: inline-block;">
@@ -364,11 +365,11 @@
 				 
 				</div>
 				
-			</div>
+			</div>-->
 		
 			<!--第四个格子-->
 			<!-- 行事历 -->
-			<div class="panel" style="background-color: #00c86c;color: white;">
+			<div class="panel" style="background-color: #6bd7b2;color: white;">
 				<div class="" style="border-bottom: 1px solid #94d294;;">
 					<div class="panel-title" style="display: inline-block;">
 						<h4><span class="glyphicon glyphicon-calendar"></span> 行事历</h4>
